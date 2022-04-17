@@ -16,7 +16,7 @@ In this app, we built a single- page application that meets the PWA criteria. Th
 * [Collaborators](#collaborators)
 * [Testing](#Testing)
 * [Screenshot](#screenshot)
-* [Questions](#questions
+* [Questions](#questions)
 
 
 AS A developer
