@@ -2,8 +2,6 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-pink.svg)](https://opensource.org/licenses/MIT)
 
-Click the Link to deployed application => 
-
 ## Description
 In this app, we built a single- page application that meets the PWA criteria. The application feature a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application will also function offline.
 
@@ -17,6 +15,9 @@ In this app, we built a single- page application that meets the PWA criteria. Th
 * [Testing](#Testing)
 * [Screenshot](#screenshot)
 * [Questions](#questions)
+
+
+Click the Link to deployed application => https://floating-tundra-15806.herokuapp.com/
 
 
 AS A developer
