@@ -25,23 +25,23 @@ I WANT to create notes or code snippets with or without an internet connection
 
 SO THAT I can reliably retrieve them for later use
 
-Installation
+## Installation
  Clone the repository and then run the command "npm install". This will install all necessary dependencies since they are all included in the package.json.
 
-Usage
+## Usage
 Open the app up in the browser with the Heroku deployed app link at the top of this readme 
 
  For offline use, the user can go to the link and hit the "install" button at the top left corner of the page.
 
-Contributors
+## Contributors
 Ideas are welcome 
 
-Testing
+## Testing
 No tests required for this project.
 
-License
+## License
 Learn more about the license used by  clicking the license badge at the top of the ReadME. 
-Questions
+## Questions
 Please contact me with any questions using either of the avenues below.
 
 Github URL: https://github.com/Geneviealba
