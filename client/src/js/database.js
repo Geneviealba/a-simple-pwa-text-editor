@@ -29,7 +29,7 @@ console.log('data saved to the jateDB', res);
 // TODO: Add logic for a method that gets all the content from the database
 
 export const putDb = async (id, value) => {
-  console.log('PUT request to update the jateDB');
+  console.log('PUT the request data update to the jateDB');
 
   const jateDb = await openDB('jate', 1);
 
@@ -40,7 +40,7 @@ export const putDb = async (id, value) => {
   const req = objStore.put({ id: id, value: value })
  
   const res = await req;
-  console.log('data saved to the jateDB', res);
+  console.log('data the saved to the jateDB', res);
 };
 
 initdb();
